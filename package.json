@@ -1,0 +1,26 @@
+{
+  "name": "alidns-signature",
+  "version": "0.0.1",
+  "description": "Generate ali DNS cloud API request signature",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengng/alidns-signature.git"
+  },
+  "keywords": [
+    "aliyun",
+    "DNS",
+    "http",
+    "api",
+    "signature"
+  ],
+  "author": "yupeng.kuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengng/alidns-signature/issues"
+  },
+  "homepage": "https://github.com/pengng/alidns-signature#readme"
+}
